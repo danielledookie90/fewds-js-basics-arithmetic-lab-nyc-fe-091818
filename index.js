@@ -7,3 +7,11 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
+let newID = 1000000000 + oldID;
+let ageIsValid = currentAge.isInteger()
+randomUserID.floor(randomNumber()*20)
+
+
+
+
+
